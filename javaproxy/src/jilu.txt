@@ -5,3 +5,4 @@
 静态代理和动态代理的区别是在于要不要开发者自己定义 Proxy 类。
 动态代理通过 Proxy 动态生成 proxy class，但是它也指定了一个 InvocationHandler 的实现类。
 代理模式本质上的目的是为了增强现有代码的功能。
+//参考的连接https://blog.csdn.net/briblue/article/details/73928350

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/javafactory/javafactory.iml" filepath="$PROJECT_DIR$/javafactory/javafactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaproxy/javaproxy.iml" filepath="$PROJECT_DIR$/javaproxy/javaproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javasingleton/javasingleton.iml" filepath="$PROJECT_DIR$/javasingleton/javasingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydesign.iml" filepath="$PROJECT_DIR$/mydesign.iml" />
     </modules>
   </component>
